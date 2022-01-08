@@ -1,2 +1,3 @@
 This is a test file.
 Added more comment for test.
+Added 3rd line.
